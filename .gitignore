@@ -1,0 +1,28 @@
+# IDE & OS
+*.iml
+*.ipr
+*.iws
+.idea/
+*.swp
+.DS_Store
+Thumbs.db
+
+# Build / output
+target/
+build/
+out/
+dist/
+
+# Environment files
+.env
+.env.local
+.env.development
+.env.production
+
+# Logs
+*.log
+logs/
+
+# JAR / dependencies cache
+.mvn/
+.cache/
